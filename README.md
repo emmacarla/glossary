@@ -1,7 +1,7 @@
 # LifeChoices Glossary 2018
 A glossary for all the funky terminology you guys hear in class. 
 
-Here is the live link: https://emmacarla.github.io/glossary/ 
+Here is the live link to the website, please feel free to style and edit it as you see fit. https://emmacarla.github.io/glossary/ 
 
 Please add your glossary terms / words below. Example:
 
