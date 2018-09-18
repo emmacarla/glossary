@@ -1,6 +1,8 @@
 # LifeChoices Glossary 2018
 A glossary for all the funky terminology you guys hear in class. 
 
+Here is the live link: https://emmacarla.github.io/glossary/ 
+
 Please add your glossary terms / words below. Example:
 
 1. Create an HTML file and a stylesheet. 
