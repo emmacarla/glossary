@@ -1,7 +1,9 @@
-# glossary
+# LifeChoices Glossary 2018
 A glossary for all the funky terminology you guys hear in class. 
 
 Please add your glossary terms / words below. Example:
 
-# HTML
-Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.
+1. Create an HTML file and a stylesheet. 
+2. Use HTML and CSS to style and present the term on github. 
+3. Update the main HTML file (index.html) to contain a link to your new html file. 
+4. Please do not edit the example page, only update the index.html and add your files. 
