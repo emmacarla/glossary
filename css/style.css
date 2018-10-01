@@ -1,0 +1,16 @@
+.box {
+    height: 400px;
+    background-color: red;
+    margin: 20%;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+section {
+    padding: 5%;
+    font-size: 30px;
+}
+
+.box:hover {
+    opacity: 0.5;
+}
+
